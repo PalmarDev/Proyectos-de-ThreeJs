@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["src/css/main.css"],"sourcesContent":["body {\r\n  width: 100%;\r\n  height: 100%;\r\n  position: absolute;\r\n  background: #000000;\r\n  margin: 0;\r\n  padding: 0;\r\n  overscroll-behavior: none;\r\n}\r\n"],"names":[],"version":3,"file":"main.34df27b5.css.map","sourceRoot":"/__parcel_source_root/"}
